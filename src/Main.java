@@ -12,4 +12,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    void sayHelloByTuan() {
+        System.out.println("Hello from Tuan");
+    }
 }
