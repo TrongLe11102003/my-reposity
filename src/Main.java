@@ -16,4 +16,8 @@ public class Main {
     void sayHelloByTuan() {
         System.out.println("Hello from Tuan");
     }
+
+    void sayHelloByTuan2() {
+        System.out.println("Hello from Tuan2");
+    }
 }
